@@ -1,0 +1,29 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "cc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJafarifar/Server.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "jafarifar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MJafarifar/Server/issues"
+  },
+  "homepage": "https://github.com/MJafarifar/Server#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
